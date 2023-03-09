@@ -2,17 +2,16 @@ package creational;
 
 import creational.builder.Burger;
 import creational.builder.BurgerBuilder;
-import org.junit.jupiter.api.AfterAll;
-import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 public class BuilderTest {
-    static Burger burger = null;
 
     @Test
+    @DisplayName("Test Burger object making with BurgerBuilder")
     public void testBurgerBuilder() {
-        burger = new BurgerBuilder(11)
+        Burger burger = new BurgerBuilder(11)
                 .addCheese()
                 .addLettuce()
                 .build();
@@ -26,10 +25,7 @@ public class BuilderTest {
                 () -> Assertions.assertTrue(burger.isLettuce()),
                 () -> Assertions.assertFalse(burger.isTomato())
         );
-    }
 
-    @AfterAll
-    public static void printBurger() {
         System.out.println(burger);
     }
 }

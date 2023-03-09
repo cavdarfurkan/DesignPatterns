@@ -6,11 +6,13 @@ import creational.factoryMethod.DevelopmentManager;
 import creational.factoryMethod.MarketingManager;
 import creational.simpleFactory.WoodenDoor;
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 public class FactoryMethodTest {
 
     @Test
+    @DisplayName("Test Developer object making")
     public void testMakeDeveloper() {
         DevelopmentManager developmentManager = new DevelopmentManager();
 
@@ -19,6 +21,7 @@ public class FactoryMethodTest {
     }
 
     @Test
+    @DisplayName("Test CommunityExecutive object making")
     public void testMakeCommunityExecutive() {
         MarketingManager marketingManager = new MarketingManager();
 

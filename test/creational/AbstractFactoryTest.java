@@ -3,6 +3,7 @@ package creational;
 import creational.abstractFactory.*;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 public class AbstractFactoryTest {
@@ -11,6 +12,7 @@ public class AbstractFactoryTest {
     DoorFittingExpert expert = null;
 
     @Test
+    @DisplayName("Test WoodenDoorFactory")
     public void testMakeWoodenDoor() {
         WoodenDoorFactory woodenDoorFactory = new WoodenDoorFactory();
         door = woodenDoorFactory.makeDoor();
@@ -24,6 +26,7 @@ public class AbstractFactoryTest {
     }
 
     @Test
+    @DisplayName("Test IronDoorFactory")
     public void testMakeIronDoor() {
         IronDoorFactory ironDoorFactory = new IronDoorFactory();
         door = ironDoorFactory.makeDoor();
