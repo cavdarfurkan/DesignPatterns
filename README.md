@@ -6,6 +6,7 @@
 * [Abstract Factory](./src/creational/abstractFactory)
 * [Builder](./src/creational/builder)
 * [Prototype](./src/creational/prototype)
+* [Singleton](./src/creational/singleton)
 
 
 
