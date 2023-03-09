@@ -4,6 +4,7 @@
 * [Simple Factory](./src/creational/simpleFactory/)
 * [Factory Method](./src/creational/factoryMethod/)
 * [Abstract Factory](./src/creational/abstractFactory)
+* [Builder](./src/creational/builder)
 
 
 
