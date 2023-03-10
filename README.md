@@ -8,7 +8,8 @@
 * [Prototype](./src/creational/prototype)
 * [Singleton](./src/creational/singleton)
 
-
+## Structural Design Patterns
+* [Adapter](./src/structural/adapter)
 
 
 
