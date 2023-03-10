@@ -5,10 +5,8 @@ public abstract class HiringManager {
     // Factory method
     protected abstract Interviewer makeInterviewer();
 
-    public Interviewer takeInterview() {
+    public void takeInterview() {
         Interviewer interviewer = this.makeInterviewer();
         interviewer.askQuestions();
-
-        return interviewer;
     }
 }
