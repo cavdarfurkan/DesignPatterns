@@ -11,6 +11,9 @@
 ## Structural Design Patterns
 * [Adapter](./src/structural/adapter/Main.java)
 * [Bridge](./src/structural/bridge/Main.java)
+* [Composite](./src/structural/composite/Main.java)
+
+
 
 
 
