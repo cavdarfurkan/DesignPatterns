@@ -14,6 +14,7 @@
 - [Composite](./src/structural/composite/Main.java)
 - [Decorator](./src/structural/decorator/Main.java)
 - [Facade](./src/structural/facade/Main.java)
+- [Flyweight](./src/structural/flyweight/Main.java)
 
 
 
