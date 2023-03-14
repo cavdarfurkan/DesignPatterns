@@ -15,6 +15,7 @@
 - [Decorator](./src/structural/decorator/Main.java)
 - [Facade](./src/structural/facade/Main.java)
 - [Flyweight](./src/structural/flyweight/Main.java)
+- [Proxy](./src/structural/proxy/Main.java)
 
 
 
