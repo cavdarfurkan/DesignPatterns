@@ -17,6 +17,9 @@
 - [Flyweight](./src/structural/flyweight/Main.java)
 - [Proxy](./src/structural/proxy/Main.java)
 
+## Behavioral Design Patterns
+- [Chain of Responsibility](./src/behavioral/chainofresponsibility/Main.java)
+
 
 
 
