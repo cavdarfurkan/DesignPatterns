@@ -19,8 +19,9 @@
 
 ## Behavioral Design Patterns
 - [Chain of Responsibility](./src/behavioral/chainofresponsibility/Main.java)
+- [Command](./src/behavioral/command/Main.java)
 
 
-
+---
 
 _Credit: [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)_
