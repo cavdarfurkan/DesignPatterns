@@ -21,6 +21,7 @@
 - [Chain of Responsibility](./src/behavioral/chainofresponsibility/Main.java)
 - [Command](./src/behavioral/command/Main.java)
 - [Iterator](./src/behavioral/iterator/Main.java)
+- [Mediator](./src/behavioral/mediator/Main.java)
 
 
 ---
