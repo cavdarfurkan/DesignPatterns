@@ -24,6 +24,7 @@
 - [Mediator](./src/behavioral/mediator/Main.java)
 - [Memento](./src/behavioral/memento/Main.java)
 - [Observer](./src/behavioral/observer/Main.java)
+- [Visitor](./src/behavioral/visitor/Main.java)
 
 
 ---
