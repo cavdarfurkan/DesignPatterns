@@ -1,30 +1,31 @@
 # Design Patterns in Java
 
 ## Creational Design Patterns
-- [Simple Factory](./src/creational/simpleFactory/Main.java)
-- [Factory Method](./src/creational/factoryMethod/Main.java)
-- [Abstract Factory](./src/creational/abstractFactory/Main.java)
-- [Builder](./src/creational/builder/Main.java)
-- [Prototype](./src/creational/prototype/Main.java)
-- [Singleton](./src/creational/singleton/Main.java)
+- [Simple Factory](./src/creational/simpleFactory)
+- [Factory Method](./src/creational/factoryMethod)
+- [Abstract Factory](./src/creational/abstractFactory)
+- [Builder](./src/creational/builder)
+- [Prototype](./src/creational/prototype)
+- [Singleton](./src/creational/singleton)
 
 ## Structural Design Patterns
-- [Adapter](./src/structural/adapter/Main.java)
-- [Bridge](./src/structural/bridge/Main.java)
-- [Composite](./src/structural/composite/Main.java)
-- [Decorator](./src/structural/decorator/Main.java)
-- [Facade](./src/structural/facade/Main.java)
-- [Flyweight](./src/structural/flyweight/Main.java)
-- [Proxy](./src/structural/proxy/Main.java)
+- [Adapter](./src/structural/adapter)
+- [Bridge](./src/structural/bridge)
+- [Composite](./src/structural/composite)
+- [Decorator](./src/structural/decorator)
+- [Facade](./src/structural/facade)
+- [Flyweight](./src/structural/flyweight)
+- [Proxy](./src/structural/proxy)
 
 ## Behavioral Design Patterns
-- [Chain of Responsibility](./src/behavioral/chainofresponsibility/Main.java)
-- [Command](./src/behavioral/command/Main.java)
-- [Iterator](./src/behavioral/iterator/Main.java)
-- [Mediator](./src/behavioral/mediator/Main.java)
-- [Memento](./src/behavioral/memento/Main.java)
-- [Observer](./src/behavioral/observer/Main.java)
-- [Visitor](./src/behavioral/visitor/Main.java)
+- [Chain of Responsibility](./src/behavioral/chainofresponsibility)
+- [Command](./src/behavioral/command)
+- [Iterator](./src/behavioral/iterator)
+- [Mediator](./src/behavioral/mediator)
+- [Memento](./src/behavioral/memento)
+- [Observer](./src/behavioral/observer)
+- [Visitor](./src/behavioral/visitor)
+- [Strategy](./src/behavioral/strategy)
 
 
 ---
