@@ -26,6 +26,7 @@
 - [Observer](./src/behavioral/observer)
 - [Visitor](./src/behavioral/visitor)
 - [Strategy](./src/behavioral/strategy)
+- [State](./src/behavioral/state)
 
 
 ---
