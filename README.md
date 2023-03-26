@@ -27,7 +27,7 @@
 - [Visitor](./src/behavioral/visitor)
 - [Strategy](./src/behavioral/strategy)
 - [State](./src/behavioral/state)
-
+- [Template Method](./src/behavioral/templatemethod)
 
 ---
 
